@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-{% include about.md %}
+Hello World
